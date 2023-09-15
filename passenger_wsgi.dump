@@ -1,0 +1,9 @@
+import sys
+import imp
+import os
+from app import app
+
+sys.path.insert(0,os.path.dirname(__file__))
+
+wsgi = imp.load_source('wsgi', "app.py")
+application = app

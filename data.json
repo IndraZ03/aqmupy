@@ -1,0 +1,18 @@
+{
+    "alert": "pku",
+    "tanggal": "tanggal",
+    "jam": "jam",
+    "lokasi": "lokasi",
+    "penerima": "Dwi Indra P.",
+    "hpPenerima": "6289666444301",
+    "lat": "lat",
+    "lon": "lon",
+    "suhu": "temp",
+    "hum": "hum",
+    "KCO": "kCO",
+    "pm25": "12",
+    "pm10": "15",
+    "cemar": "PM10",
+    "ISPU": "ISPU",
+    "kategori": "Tidak Sehat"
+}
